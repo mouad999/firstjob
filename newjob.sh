@@ -1,1 +1,1 @@
-echo "helloooo"
+sudo echo "helloooo"
