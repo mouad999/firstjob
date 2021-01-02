@@ -1,1 +1,2 @@
-sudo echo "helloooooooooo"
+#!/bin/bash
+echo "helloooooooooo"
